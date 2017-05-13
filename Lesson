@@ -1,0 +1,9 @@
+#
+
+#### [Hub Class](https://msdn.microsoft.com/en-us/library/microsoft.aspnet.signalr.hub(v=vs.118).aspx)
+
+```C#
+public abstract class Hub : IHub, 
+	IDisposable
+```
+
